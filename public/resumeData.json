@@ -1,35 +1,35 @@
 {
   "main": {
-    "name": "Bruno Díaz",
-    "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer by Day",
-    "image": "Bruno.jpg",
-    "bio": "My name is Bruno, I'm a Full Stack ReactJS Developer with some Node JS knowledge. Currently I'm working at a studio and also learning new technologies like Unreal Engine 4 ",
+    "name": "Bruno Díaz Bermúdez",
+    "occupation": "Frontend ReactJS Developer",
+    "description": "",
+    "image": "test1.PNG",
+    "bio": "My name is Bruno, I'm a Frontend ReactJS Developer with some Backend and QA knowledge. Currently I'm working at a Wizeline. I am very passoniate about technology and love learning new things.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "brunodiazb16@gmail.com",
     "phone": "+52 33 3248 8352",
     "address": {
-      "street": "Rinconda de las Acacias #1118",
+      "street": "San Demetrio #3632A int #102A",
       "city": "México",
       "state": "Jalisco",
-      "zip": "45055 "
+      "zip": "45040"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://m.facebook.com/bruno.diazbermudez",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/bruno-diaz-bermudez-8bb2001b6/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/brunodiaz_b/?hl=es-la",
         "className": "fa fa-instagram"
       },
       {
@@ -51,47 +51,57 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Nostum",
+        "title": "Fullstack Engineer",
+        "years": "April 2018 - May 2020",
+        "description": "Had a big role since it was a small company, worked in various areas like particaping in data-base design, making various endpoints of Rest APIs, making One-Pages on my own from scratch in very few days for clients with React. Also having constant communication with my team and the client."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Wizeline",
+        "title": "Software Evolution Engineer",
+        "years": "May 2020 - Current",
+        "description": "Started contribuing to internal project as a FrontEnd Developer, then moved to work with a client as a QA engineer despite not having worked as a QA before I quickly adapt, learnt and gave very good results, as a Squad we are doing the best of all in my current project. As a QA I became very familiar with agile metodologies and improving my comunnication with the client and every department of the team."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
+        "level": "90%"
       },
       {
         "name": "Node",
         "level": "55%"
       },
       {
-        "name": "HTML5",
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Jira",
         "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Shopify/liquid",
+        "level": "60%"
+      },
+      {
+        "name": "AWS",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
       },
       {
         "name": "MongoDB",
         "level": "40%"
-      },
-      {
-        "name": "C++",
-        "level": "70%"
       }
+      
+      
     ]
   },
   "portfolio": {

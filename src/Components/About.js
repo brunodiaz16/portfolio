@@ -19,7 +19,7 @@ class About extends Component {
     return (
       <section id="about">
       <div className="row">
-         <div className="three columns">
+         <div className="three columns" style={{display: "flex", justifyContent: "center"}}>
             <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
          </div>
          <div className="nine columns main-col">
