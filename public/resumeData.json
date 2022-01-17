@@ -18,24 +18,9 @@
     "resumedownload": "CV BRUNO.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://m.facebook.com/bruno.diazbermudez",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/bruno-diaz-bermudez-8bb2001b6/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/brunodiaz_b/?hl=es-la",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/brunodiaz16",
-        "className": "fa fa-github"
       }
     ]
   },
