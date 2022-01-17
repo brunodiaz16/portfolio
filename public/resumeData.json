@@ -4,7 +4,7 @@
     "occupation": "Frontend ReactJS Developer",
     "description": "",
     "image": "test1.PNG",
-    "bio": "My name is Bruno, I'm a Frontend ReactJS Developer with some Backend and QA knowledge. Currently I'm working at a Wizeline. I am very passoniate about technology and love learning new things.",
+    "bio": "My name is Bruno, I'm a Frontend ReactJS Developer with some Backend and QA knowledge. Currently working at Wizeline. I am very passoniate about technology and a fast learner.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "brunodiazb16@gmail.com",
     "phone": "+52 33 3248 8352",
@@ -43,18 +43,18 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "ITESO, Guadalajara",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "Started in August 2014",
+        "description": "I started studying chemistry engineering but changed my career path in the third semester were I started taking computer science related classes, had to pause my career due to financial issues but I am still interested in finishing a Computer science career"
       }
     ],
     "work": [
       {
         "company": "Nostum",
-        "title": "Fullstack Engineer",
+        "title": "Web Developer/Fullstack Engineer",
         "years": "April 2018 - May 2020",
-        "description": "Had a big role since it was a small company and had a small team, worked in various areas like participating in data-base design, making various endpoints of Rest APIs, making One-Pages on my own from scratch in very few days for clients with React. Also having constant communication with my team and the client."
+        "description": "Had a big leading role since it was a small studio and had a small team, worked in various areas like participating in data-base design, making various endpoints of Rest APIs, making One-Pages on my own from scratch in very few days for clients with React. Also having constant communication with my team and the client."
       },
       {
         "company": "Wizeline",
